@@ -1,0 +1,7 @@
+https://www.google.com
+https://www.stackoverflow.com
+https://www.chatgpt.com
+https://www.amazon.com
+https://www.meta.com
+https://www.github.com
+https://news.ycombinator.com
